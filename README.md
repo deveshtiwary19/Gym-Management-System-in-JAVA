@@ -2,6 +2,14 @@
 #CodeFreaks Developers
 This is a prototype application of Gym management system in Java.
 
+===================================================================
+ID  PASSWORD HARDCODED IN APPLICATION
+
+username: BCET
+password: 1234
+
+You can change it by making changes in source code
+
 ====================================================================================
 The following project is the developed application for Gym Managemnt System developed in c.
 You can have a look of that Console application in my repositories.
